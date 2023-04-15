@@ -11,7 +11,7 @@ import rp_logo from "./rp_logo.png"
 import gfg from "./gfg.png";
 import university from "./university.png";
 import school from "./School.png";
-import graduation_cap from "./graduation_cap.png";''
+import graduation_cap from "./graduation_cap.png";
 import visit from "./visit.png";
 import leetcode from "./leetcode.svg"
 import css from "./tech/css.png";
