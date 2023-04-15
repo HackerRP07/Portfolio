@@ -3,7 +3,6 @@ import {
     detection,
     graduation_cap,
     school,
-    web,
     javascript,
     typescript,
     html,
