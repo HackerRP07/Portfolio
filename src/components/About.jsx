@@ -30,7 +30,11 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
       <motion.p variants={fadeIn("","",0.1,1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-      I am a third year B.Tech student, I have developed a strong foundation in computer science and engineering concepts, with a focus on programming and problem-solving skills. I have completed various academic projects that have helped me gain a deeper understanding of different technologies and programming languages like C and C++. Additionally, I have honed my technical skills in data structures and algorithms and  web development through various projects and internships.  I am excited to continue building my skills and contributing to the field of computer science and engineering.
+      I am a third year B.Tech student, I have developed a strong foundation in computer science and engineering concepts, with a focus on programming and problem-solving skills.
+       I have completed various academic projects that have helped me gain a deeper understanding of different technologies and programming 
+       languages like C and C++. Additionally, I have developed my technical skills in data structures and algorithms and  web development through 
+       various projects and internships.  I am excited to continue building my skills and contributing to the field of computer science and 
+       engineering.
       </motion.p>
       
       <div className='mt-20 flex flex-wrap gap-40 '>

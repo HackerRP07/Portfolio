@@ -1,5 +1,6 @@
 import {
     mobile,
+    detection,
     graduation_cap,
     school,
     web,
@@ -20,7 +21,7 @@ import {
     starbucks,
     tesla,
     shopify,
-    carrent,
+    summary,
     jobit,
     tripguide,
     threejs,
@@ -194,7 +195,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: detection,
       source_code_link: "https://github.com/",
     },
     {
@@ -210,12 +211,12 @@ import {
           name: "MERN",
           color: "green-text-gradient",
         },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
-        },
+        // {
+        //   name: "scss",
+        //   color: "pink-text-gradient",
+        // },
       ],
-      image: jobit,
+      image: summary,
       source_code_link: "https://github.com/",
     },
    
