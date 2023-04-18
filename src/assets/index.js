@@ -5,7 +5,7 @@ import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
-import detection from "./detection.JPG";
+import detection from "./detection.jpg";
 import close from "./close.svg";
 import rp_logo from "./rp_logo.png"
 import gfg from "./gfg.png";
